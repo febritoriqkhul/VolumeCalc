@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_cone"
+        android:icon="@drawable/menu_cone"
+        android:title="Cone"/>
+
+    <item
+        android:id="@+id/action_cylinder"
+        android:icon="@drawable/menu_cylinder"
+        android:title="Cylinder"/>
+</menu>
